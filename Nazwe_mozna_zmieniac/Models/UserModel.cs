@@ -7,6 +7,6 @@ namespace Nazwe_mozna_zmieniac.Models
 {
     public class UserModel
     {
-        //////
+        ////////
     }
 }
